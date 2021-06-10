@@ -18,9 +18,11 @@ class calculator:
     
     @staticmethod
     def log10(a):
+    # Log with base 10
         pass
 
     @staticmethod
+    # Natural log
     def log(a):
         pass
 
