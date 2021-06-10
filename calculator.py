@@ -15,3 +15,15 @@ class calculator:
     @staticmethod
     def division(a,b):
         pass
+    
+    @staticmethod
+    def log10(a):
+        pass
+
+    @staticmethod
+    def log(a):
+        pass
+
+    @staticmethod
+    def fact(a):
+        pass
